@@ -50,3 +50,6 @@ __Melhorias1__ _melhorias2_
 
  }
 ```
+
+- [x] feito
+- [ ] não feito
